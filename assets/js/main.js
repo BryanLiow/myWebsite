@@ -4,6 +4,11 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+function openCv()
+{
+    window.open('assets/files/Bryan-ZeYan-Liow-CV.pdf','_blank');
+}
+
 (function() {
   "use strict";
 
