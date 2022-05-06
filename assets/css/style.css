@@ -1111,7 +1111,7 @@ a:hover {
   transition: 0.4s;
 }
 .php-email-form button[type="submit"]:hover {
-  background: #3393ff;
+  background: #ab2cddd2;
 }
 
 @-webkit-keyframes animate-loading {
