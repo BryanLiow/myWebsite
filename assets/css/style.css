@@ -208,6 +208,19 @@ a:hover {
   display: inline-block;
   padding-top: 15px;;
 }
+.btn-primary {
+  color: #fff;
+  background-color: #8a24b2d2;
+  /* border-color: #8a24b2d2; */
+  margin-top: 60px;
+  border: 0;
+  padding: 10px 24px;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #ab2cddd2;
+}
 .socials .ico-circle {
   height: 40px;
   width: 40px;
@@ -757,6 +770,23 @@ a:hover {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.btn-cv {
+  color: #fff;
+  background-color: #8a24b2d2;
+  /* border-color: #8a24b2d2; */
+  margin-top: 60px;
+  border: 0;
+  padding: 10px 24px;
+  border-radius: 4px;
+  transition: 0.4s;
+}
+
+.btn-cv:hover {
+  color: #fff;
+  background-color: #ab2cddd2;
+  box-shadow: 0 0 0 4px #cde1f8;
+}
+
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
